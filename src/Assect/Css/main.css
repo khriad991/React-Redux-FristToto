@@ -1,0 +1,14 @@
+body{
+    background: #f0f7f4;
+}
+.redius{
+    border-radius: 10px;
+}
+
+.bg-azure{
+    background: azure;
+}
+
+.mr-l{
+    margin-left: 8rem;
+}
